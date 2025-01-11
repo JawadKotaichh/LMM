@@ -1,0 +1,1 @@
+Start Time: 0.01s, Cycle Length: 1, Cycle Time: 0.01s, Repetitions: 202, Cycle: [68.27174487961074]
